@@ -1,0 +1,203 @@
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\ApplicationInsights.config
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe.config
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.rsp
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.exe
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.rsp
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe.config
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.rsp
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll.config
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\partyInvites.pdb
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\WebGrease.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.pdb
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.xml
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.csprojResolveAssemblyReference.cache
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.dll
+C:\Users\walrobc\Desktop\third_semester\Business_applications\visual_studios\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\ApplicationInsights.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.rsp
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.rsp
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.rsp
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\WebGrease.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\ApplicationInsights.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csc.rsp
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\csi.rsp
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\vbc.rsp
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\partyInvites.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\WebGrease.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Helpers.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Mvc.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Optimization.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.Razor.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\System.Web.WebPages.Razor.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Antlr3.Runtime.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Newtonsoft.Json.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\bin\Microsoft.AI.Web.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\partyInvites\partyInvites\partyInvites\obj\Debug\partyInvites.pdb
